@@ -1,0 +1,5 @@
+homepage: 'https://stape.io/'
+documentation: 'https://github.com/stape-io/spotify-web-tag'
+versions:
+  - sha: 7a90af75624b0c74e1fe367c8d37f398a5cb4502
+    changeNotes: Initial release.
